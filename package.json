@@ -1,7 +1,7 @@
 {
-  "name": "raganork-md", 
+  "name": "Asad-md", 
   "version": "3.0.0",
-  "description": "Raganork whatsapp bot- Multi device version.",
+  "description": "Asad whatsapp bot- Multi device version.",
   "main": "./Raganork/index.js",
   "scripts": {
     "start": "supervisor -s index.js"
@@ -15,8 +15,8 @@
     "bot",
     "multi-device"
   ],
-  "author": "Sourav",
-  "developer": "@souravkl11",
+  "author": "Asad Noor",
+  "developer": "@asadnoor_25",
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/souravkl11/raganork/issues"
