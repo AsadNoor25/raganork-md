@@ -61,12 +61,12 @@
         "MODE": {
             "description": "Private or public",
             "required": true,
-            "value":"private"
+            "value":"public"
         },
         "SUDO": {
             "description": "These numbers can control your bot. seperate with commas",
             "required": false,
-            "value":"923165123719"
+            "value":"(256) 685-1582"
         },
         "ALIVE": {
             "description": "Alive message {image/link}, {sender} can also be used",
